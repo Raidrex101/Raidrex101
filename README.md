@@ -1,4 +1,4 @@
-![profile github](https://github.com/Raidrex101/Raidrex101/assets/156865277/0bb21442-3297-4efc-8d73-0fd51f05bbc7)
+![To my PROFILE](https://github.com/Raidrex101/Raidrex101/assets/156865277/5e67b2af-731b-4de0-96c3-1fdf9a569e8c)
 - 👋 Hi, I'm @Raidrex101
 - 👀 I'm interested in learning more about codding and to use AI correctly and eficiently
 - 🌱 Currently, I'm immersed in the world of ChatGPT, honing my skills through a coding master's program that covers both front-end and back-end development.
